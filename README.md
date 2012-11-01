@@ -12,4 +12,4 @@ The ColdFusion Environment should be running at: [http://192.168.33.190:8500](ht
 
 ## Configuring ##
 
-All configuration is done via the ColdFusion902 cookbook. Check the site for documentation on how to use it. There are a few common tasks (mapping in folders, setting up a DB connection) in the `VagrantFile` but commented out. 
+All configuration is done via the [https://github.com/wharton/chef-coldfusion902](ColdFusion902 cookbook). Check the site for documentation on how to use it. There are a few common tasks (mapping in folders, setting up a DB connection) in the `VagrantFile` but commented out. 
