@@ -6,6 +6,7 @@ Uses VirtualBox, Vagrant, Librarian, and Chef to configure a disposable developm
 
 Assuming you have the dependencies installed, just clone this repo, enter the folder, and run:
 
+    % librarian-chef install
     % vagrant up
 
 The ColdFusion Environment should be running at: [http://192.168.33.190:8500](http://192.168.33.190:8500), with the webroot set to the `wwwroot` folder in this directory (mapped into the VM).
