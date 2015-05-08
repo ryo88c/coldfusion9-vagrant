@@ -7,7 +7,7 @@ cookbook 'apt'
 cookbook 'apache2'
 
 cookbook 'coldfusion902',
-	:git => 'https://github.com/wharton/chef-coldfusion902'
+    :git => 'https://github.com/ryo88c/chef-coldfusion902'
 
 # cookbook 'apache2', '>= 1.0.0'
 
